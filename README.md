@@ -94,34 +94,34 @@ We'd like your help curating a set of topics, subtopics, and keywords. These wil
 
 # Journalism
 - GreatJournalism: journalistic integrity, investigative journalism, investigative journalist
-- Bothsidesism
-- Propaganda
+- Bothsidesism: both sides, polarized
+- Propaganda: propaganda, disinformation, misinformation
 - DebunkingBigLies: Hunter Biden, Biden Crime Family, election integrity
 - OSINT: open source intelligence
 
 # Entertainment
 - Hollywood: box office, writer strike
-- Sports
+- Sports: football, baseball, basketball, hockey
 
 # TravelLeisureArts
-- Travel
-- Arts
-- Hobbies
-- Exercise
+- Travel: travel, airfare
+- Arts: museum, artist
+- Hobbies: photography, surfing, birdwatching
+- Exercise: exercise, jogging, weightlifting
 
 # FeelGood
-- FunnyVideos
-- AnimalVideos
+- FunnyVideos: funny video
+- AnimalVideos: animal video
 
 # Science
 - MedicalScience: cancer, Alzheimers
-- Biotech
-- Biology
-- Oceanography
-- Astronomy
-- SpaceTravel
-- Physics
-- Chemistry
+- Biotech: biotech
+- Biology: biology
+- Oceanography: oceanography
+- Astronomy: astronomy
+- SpaceTravel: space travel
+- Physics: physics
+- Chemistry: molecular
 
 # History
 - USHistory: 1776, slavery, Civil War, Abraham Lincoln, Reconstruction, Gilded Age, Great Depression, Business Plot, New Deal, FDR, World War, Civil Rights, Vietnam War
