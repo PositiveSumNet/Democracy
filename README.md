@@ -29,11 +29,12 @@ We'd like your help curating a set of topics, subtopics, and keywords. These wil
 - EconomicNews: unemployment, interest rate, deficit, government shutdown, austerity
 
 # HumanRights
-- WomensRights: Dobbs, bodily autonomy, abortion, gender equality, women's rights, gender pay gap, domestic violence, patriarchy, misogyny, misogynist
+- WomensRights: Dobbs, bodily autonomy, abortion, gender equality, women's rights, gender pay gap, domestic violence, patriarchy, misogyny, misogynist, sexual harassment
 - LGBTQ: LGBT, gay, transgender, lesbian, bisexual, sexuality, pronouns
 - RacialEquality: racist, racism, civil rights, Martin Luther King, BLM, BIPOC
 - ReligiousTolerance: religion, religious, Christian, Jewish, atheist, atheism
-- ChildWelfare: child abuse, sexual abuse, school lunches, trafficking
+- ChildWelfare: child abuse, sexual abuse, school lunches, trafficking, child labor
+- WorkersRights: factory workers, workplace safety
 
 # Environment
 - Climate: climate change, global warming, forest fire, fossil fuel, CO2, methane, ocean temperature, Anthropocene
