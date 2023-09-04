@@ -1,6 +1,6 @@
 ## Social Media Curation Topics
 
-We'd like your help curating a set of topics, subtopics, and keywords. These will be used to categorize social media content. Please submit an Issue here (https://github.com/PositiveSumNet/Democracy/issues) to make suggestions.
+We'd like your help curating a set of topics, subtopics, and keywords. These will be used to categorize social media content. Please submit an Issue [here] (https://github.com/PositiveSumNet/Democracy/issues) or email [whosumsupport@positivesum.net](mailto:whosumsupport@positivesum.net) to make suggestions.
 
 # Democracy
 - Liberalism: Democrats, liberals, pro democracy
