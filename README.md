@@ -22,7 +22,7 @@ We'd like your help curating a set of topics, subtopics, and keywords. These wil
 
 # Economics
 - Bidenomics: positive sum, infrastructure, care economy
-- Inequality: billionaire, minimum wage, scarcity myth
+- Inequality: billionaire, minimum wage, scarcity myth, concentration of wealth
 - MMT: modern monetary theory, deficit myth
 - Libertarianism: Milton Friedman, neoliberalism, scarcity myth, zero sum, Reagan, economic freedom, gold, crypto
 - SocialSafetyNet: affordable housing, social security, Medicare, Medicaid, pension, retirement
@@ -70,13 +70,18 @@ We'd like your help curating a set of topics, subtopics, and keywords. These wil
 - AgingWithDignity: Medicare, Medicaid, nursing homes
 
 # Geopolitics
-- GlobalSecurity: NATO, United Nations
-- GlobalTrade: global trade, tarrifs, trade deficit, economic sanctions
+- GlobalSecurity: NATO, United Nations, Five Eyes
+- GlobalTrade: global trade, tarrifs, trade deficit, economic sanctions, OECD
 - Europe: European Union, Italy, Ireland, Spain, England, United Kingdom, Greece, France, Germany, Baltic, Sweden, Finland, Norway, Brexit
 - MiddleEast: Middle East, Israel, Saudi Arabia, Iran, Iraq, Afghanistan, Dubai, Qatar
 - Ukraine: Ukraine, Ukrainian, Kyiv, Crimea, Zelensky, Russia, Moscow, Putin
 - China: President Xi, China, Taiwan
 - NorthKorea: North Korea
+- UN: United Nations
+- G20: G20
+- G7: G7
+- BRICS: BRICS
+- WEF: World Economic Forum
 
 # AnimalWelfare
 - AnimalShelters: animal shelter, dog adoption, cat adoption
@@ -94,7 +99,7 @@ We'd like your help curating a set of topics, subtopics, and keywords. These wil
 - ToxicFinance: dark money, cryptocurrency, kleptocracy
 
 # Journalism
-- GreatJournalism: journalistic integrity, investigative journalism, investigative journalist
+- GreatJournalism: journalistic integrity, investigative journalism, investigative journalist, solutions journalism
 - Bothsidesism: both sides, polarized
 - Propaganda: propaganda, disinformation, misinformation
 - DebunkingBigLies: Hunter Biden, Biden Crime Family, election integrity
