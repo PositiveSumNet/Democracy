@@ -2,26 +2,35 @@
 
 We'd like your help curating a set of topics, subtopics, and keywords. These will be used to categorize social media content. Please submit an Issue [here](https://github.com/PositiveSumNet/Democracy/issues) or email [whosumsupport@positivesum.net](mailto:whosumsupport@positivesum.net) to make suggestions.
 
+# Synthesis
+- OurWorldExplained
+- +SumWorldview
+- 0SumWorldview
+
 # Democracy
-- Liberalism: Democrats, liberals, pro democracy
+- Liberalism: Democrats, liberals, pro democracy, pro-democracy
 - BidenWins: Inflation Reduction Act, Infrastructure Act, deficit reduction, Medicare Price Negotiation, CHIPS Act, manufacturing jobs
-- CivicEngagement: volunteering, fundraising
+- CivicEngagement: volunteering, fundraising, civic engagement, civic duty
 - Activism: petition, unions, rally
-- KeyElections: Biden Harris
+- KeyElections: Biden Harris, Biden 2024
 - ElectionIntegrity: voting rights, redistricting, gerrymander, voter intimidation, state legislature, 14th Amendment
+- MemesForDemocracy
+- Coalitions: coalition, common cause
 
 # Authoritarianism
 - Trumpism: Trump, MAGA, GOP, Republican, Tucker Carlson, Fox News, Flynn, Roger Stone, Steve Bannon, Vivek Ramaswamy, proud boys, oath keepers
-- TrumpCrimes: Trump, Giuliani, Fani Willis, Jack Smith, Mar a Lago, January 6
+- TrumpCrimes: Trump, Giuliani, Fani Willis, Jack Smith, Mar a Lago, January 6, Jan 6
 - Extremism: fascist, fascism, nationalist, nationalism, supremacist, political violence
 - TakeoverOfTheGOP: GOP, corruption, NRA, Russia, Koch Network
 - PoliticsOfDivision: critical race theory, wokeism, book ban, fascist, fascism, tribalism, Marxist, DeSantis, immigration, border security
 - WealthyDonors: Koch, billionaire, Citizens United
 - IlliberalismGlobally: Putin, Viktor Orban, President Xi
 - Cults: undue influence, qanon, pizzagate
+- MemesAgainstAutocrats
+- CrimesVsHumanity: crimes against humanity, war crimes, genocide
 
 # Economics
-- Bidenomics: positive sum, infrastructure, care economy
+- Bidenomics: positive sum, infrastructure, care economy, Bidenomics
 - Inequality: billionaire, minimum wage, scarcity myth, concentration of wealth
 - MMT: modern monetary theory, deficit myth
 - Libertarianism: Milton Friedman, neoliberalism, scarcity myth, zero sum, Reagan, economic freedom, gold, crypto
@@ -57,6 +66,7 @@ We'd like your help curating a set of topics, subtopics, and keywords. These wil
 - SocialMedia: social media, Twitter, Elon, Musk, Zuckerberg, Peter Thiel, Mastodon, Spoutible, Threads, Facebook, enshittification
 - Longtermism: TESCREAL, longtermist, longtermism, AGI
 - Disinformation: disinformation, misinformation, propaganda
+- ToxicContent: Trolling, flooding the zone, politics of division
 - ArtificialIntelligence: AI safety, artificial intelligence, AI ethics
 
 # Education
@@ -118,6 +128,7 @@ We'd like your help curating a set of topics, subtopics, and keywords. These wil
 # FeelGood
 - FunnyVideos: funny video
 - AnimalVideos: animal video
+- HeartwarmingStory
 
 # Science
 - MedicalScience: cancer, Alzheimers
@@ -128,6 +139,12 @@ We'd like your help curating a set of topics, subtopics, and keywords. These wil
 - SpaceTravel: space travel
 - Physics: physics
 - Chemistry: molecular
+- JunkScience: junk science
 
 # History
 - USHistory: 1776, slavery, Civil War, Abraham Lincoln, Reconstruction, Gilded Age, Great Depression, Business Plot, New Deal, FDR, World War, Civil Rights, Vietnam War
+- WWII: World War II, World War 2, WW2, WWII
+- Colonialism
+
+# JUNK
+- Junk
