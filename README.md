@@ -26,7 +26,7 @@ We'd like your help curating a set of topics, subtopics, and keywords. These wil
 - WealthyDonors: Koch, billionaire, Citizens United
 - IlliberalismGlobally: Putin, Viktor Orban, President Xi
 - Cults: undue influence, qanon, pizzagate
-- MemesAgainstAutocrats
+- MemesVsAutocrats
 - CrimesVsHumanity: crimes against humanity, war crimes, genocide
 
 # Economics
