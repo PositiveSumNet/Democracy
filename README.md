@@ -68,6 +68,7 @@ We'd like your help curating a set of topics, subtopics, and keywords. These wil
 - Disinformation: disinformation, misinformation, propaganda
 - ToxicContent: Trolling, flooding the zone, politics of division
 - ArtificialIntelligence: AI safety, artificial intelligence, AI ethics
+- Infosec: infosec, information security, hacking, phishing, ransomware
 
 # Education
 - PublicSchools: public school, school board, charter school, private school
