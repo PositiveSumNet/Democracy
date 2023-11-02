@@ -147,5 +147,5 @@ We'd like your help curating a set of topics, subtopics, and keywords. These wil
 - WWII: World War II, World War 2, WW2, WWII
 - Colonialism
 
-# JUNK
+# JUNK_deprecated
 - Junk
